@@ -1,0 +1,17 @@
+{
+  "name": "ds-us",
+  "version": "1.0.0",
+  "description": "Repositorio utilizado para a atividade de Back-End, DS us",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Jogo",
+    "Game",
+    "Backend",
+    "Node.js"
+  ],
+  "author": "Ana Carolina Freitas",
+  "license": "MIT"
+}
